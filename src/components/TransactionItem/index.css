@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.td {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  border: 2px inset #000000;
+  border-radius: 10px;
+}
+.delete {
+  border: none;
+  background-color: transparent;
+}
+.deleteImg{
+  width: 25%;
+}
